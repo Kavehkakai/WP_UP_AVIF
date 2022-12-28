@@ -1,4 +1,4 @@
-# WP_UP_AVIF
+# How import AVIF file in wordPress
 
 <?php
 /**
