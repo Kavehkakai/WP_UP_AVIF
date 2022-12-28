@@ -1,4 +1,4 @@
-# How import AVIF file in wordPress
+# How import AVIF file in wordPress / you must use this code on function.php 
 
 <?php
 /**
